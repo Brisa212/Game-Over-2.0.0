@@ -1,8 +1,4 @@
 # Game-Over-2.0.0
-# Game-Over-2.0.
-
-Game Over es una tienda online desarrollada con **Python, Flask, SQLite, HTML, CSS, Bootstrap y JavaScript**, orientada a la venta de videojuegos, consolas, accesorios y productos gamer.
-
 
 # Tecnologías utilizadas
 
